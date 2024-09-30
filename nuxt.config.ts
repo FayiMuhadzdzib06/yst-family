@@ -1,5 +1,6 @@
 export default defineNuxtConfig({
   devtools: { enabled: true },
+
   modules: [
     "@nuxt/ui",
     "@nuxtjs/google-fonts",
@@ -7,4 +8,6 @@ export default defineNuxtConfig({
     "@pinia/nuxt",
     "@vueuse/nuxt",
   ],
+
+  compatibilityDate: "2024-09-30",
 });
