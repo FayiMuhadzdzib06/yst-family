@@ -1,4 +1,4 @@
-<script lang="en" setup></script>
+<script lang="ts" setup></script>
 
 <template>
   <div id="about" class="px-[70px] w-full h-screen flex flex-col items-center font-sans py-8 overflow-hidden">
